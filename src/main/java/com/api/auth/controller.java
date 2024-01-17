@@ -10,9 +10,6 @@ import java.util.ArrayList;
 
 @RestController
 public class controller {
+    
 
-    @PostMapping("/login")
-    public RequestBody<String> login() {
-        
-    }
 }
