@@ -1,2 +1,3 @@
 com/api/auth/controller.class
+com/api/auth/config/SecurityConfig.class
 com/api/auth/AuthApplication.class
